@@ -24,9 +24,9 @@ const RESOURCES = {"apple-app-site-association": "0abfeeacc16349f3092a8f791d9b25
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "60cb9f6bb51d6bdb41816554cf9e0358",
-"/": "60cb9f6bb51d6bdb41816554cf9e0358",
-"main.dart.js": "8bee34992b8fe7eba59577a4b65b4727",
+"index.html": "8a88784872e05617740a791d5774cee9",
+"/": "8a88784872e05617740a791d5774cee9",
+"main.dart.js": "79fb45728aa30a65c9e0720ea7548704",
 "manifest.json": "96abac8054dfe909f6793dc27dca115c",
 "version.json": "b3641041e820499ab1cad07b4634ef16"};
 // The application shell files that are downloaded before a service worker can
